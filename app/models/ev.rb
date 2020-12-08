@@ -1,0 +1,2 @@
+class Ev < ApplicationRecord
+end
